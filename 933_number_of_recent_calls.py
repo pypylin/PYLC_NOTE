@@ -25,4 +25,3 @@ param_1 = obj.ping(100)
 param_1 = obj.ping(3005)
 param_1 = obj.ping(6000)
 param_1 = obj.ping(6005)
-1, 99, 2900
